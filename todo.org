@@ -1,0 +1,2 @@
+* Read these pages
+  http://guides.github.com/
