@@ -1,2 +1,4 @@
 * Read these pages
   http://guides.github.com/
+
+* Magit test
